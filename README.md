@@ -1,4 +1,4 @@
-# UnrealCoopAi
+# UnrealCoopAI
 
 First Person Shooter (FPS) game I made for my research internship using Unreal Engine 4.22 . This game is the very first one I did using Unreal Engine, and I only used free assets I found.
 
